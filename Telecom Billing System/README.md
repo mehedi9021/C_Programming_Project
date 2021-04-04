@@ -4,8 +4,8 @@
 The functions and features used in this project are listed below:<br>
 Add new records - add new data into file with name, phone number and amount to be paid.<br>
 View list of records - lists all telephone billing records.<br>
-Modify records - edit the added records; name, phone number and/or amount of payment can be edited.dgggggggggggggggggggggggggggggggggggggggggggggg
-View payment - shows amount to be paid.<br>gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+Modify records - edit the added records; name, phone number and/or amount of payment can be edited.<br>
+View payment - shows amount to be paid.<br>
 Search records - search for added/updated records in file.<br>
 Delete records - removes data permanently from file.
 
